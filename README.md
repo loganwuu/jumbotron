@@ -1,12 +1,12 @@
 # Logan Wu's Website
 
-##### A website that allows users to enter to do items and display completed items. (9/15/15)
+##### A website that allows users to enter to do items and display completed items.
 
 #### By Logan Wu
 
 ## Technologies Used
 
-HTML, CSS, JavaScript, Bootstrap, SVG, animation
+HTML, CSS, JavaScript, Bootstrap, SVG, Animation
 
 ### Legal
 

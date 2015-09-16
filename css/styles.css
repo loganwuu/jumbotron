@@ -2,6 +2,15 @@ body {
   padding-top: 70px;
 }
 
+/*trying to get the infinite color transition animation working*/
+/*h1 {
+  color: #f35626;
+  background-image: -webkit-linear-gradient(92deg,#f35626,#feab3a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: hue 60s infinite linear;
+}*/
+
 #linkedin {
     margin: 40px 0 40px 0;
 }
