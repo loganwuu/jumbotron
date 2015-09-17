@@ -1,6 +1,6 @@
 # [Logan Wu's Website](http://loganwuu.github.io)
 
-##### A website that allows users to enter to do items and display completed items.
+##### My personal webpage.
 
 #### By Logan Wu
 
