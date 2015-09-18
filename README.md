@@ -1,4 +1,4 @@
-# [Logan Wuamp&rsquo;s Website](http://loganwuu.github.io)
+# [Logan Wu&rsquo;s Website](http://loganwuu.github.io)
 
 ##### My personal webpage.
 
