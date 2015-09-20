@@ -22,9 +22,11 @@ body {
         padding-left: 10px;
         padding-right: 10px;
     }
+    
     .text {
-      font-size: 18px;
+        font-size: 18px;
     }
+    
     h1 {
         text-align: center;
     }
