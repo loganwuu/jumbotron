@@ -14,3 +14,11 @@ body {
 #linkedin {
     margin: 40px 0 40px 0;
 }
+
+@media screen and (max-width: 767px) {
+  .jumbotron {
+    width: calc(100% + 2em);
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
