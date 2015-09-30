@@ -1,6 +1,6 @@
-# [Logan Wu&rsquo;s Website](http://loganwuu.github.io)
+# Jumbotron
 
-##### Personal webpage
+##### Jumbotron experiment
 
 #### By Logan Wu
 
